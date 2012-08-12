@@ -40,7 +40,7 @@ Or install it yourself as:
    
 ## License & Ownership
 
-** I do not maintain or claim any form of ownership over showdown.js - here's what I know about the origins of showdown.js:**
+_I do not maintain or claim any form of ownership over showdown.js - here's what I know about the origins of showdown.js:_
 
 * `showdown.js` was originally created by John Fraser, of [AttackLab.net](http://www.attacklab.net), however the posting of the original script seems to no longer exist
 * Since then, [many people have created mirrors of the original script on Github](https://github.com/search?q=showdown&repo=&langOverride=&start_value=1&type=Everything&language=)
