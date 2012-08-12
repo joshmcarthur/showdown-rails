@@ -27,14 +27,17 @@ Or install it yourself as:
 ## Usage
 
 1. Include the gem in your application's `app/assets/javascripts/application.js` by adding the following line:
+
    ```
      //= require showdown
    ```
 2. Turn Markdown into HTML!
+
    ```
      var converter = new Showdown.converter()
      converter.makeHtml("** Markdown! **")
    ```
+   
 ## License & Ownership
 
 ** I do not maintain or claim any form of ownership over showdown.js - here's what I know about the origins of showdown.js:**
