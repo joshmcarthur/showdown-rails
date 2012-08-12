@@ -1,5 +1,5 @@
-module Rails
-  module Showdown
+module Showdown
+  module Rails
     VERSION = "0.0.2"
   end
 end
