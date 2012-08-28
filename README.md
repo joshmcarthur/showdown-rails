@@ -13,7 +13,7 @@ The script enables features such as:
 
 Add this line to your application's Gemfile:
 
-    gem 'rails-showdown'
+    gem 'showdown-rails'
 
 And then execute:
 
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rails-showdown
+    $ gem install showdown-rails
     
 
 ## Usage
