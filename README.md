@@ -34,7 +34,7 @@ Or install it yourself as:
 2. Turn Markdown into HTML!
 
    ```
-     var converter = new Showdown.converter()
+     var converter = new showdown.Converter()
      converter.makeHtml("** Markdown! **")
    ```
    
