@@ -1,4 +1,4 @@
-# Showdown.js for Rails 3.1 Asset Pipeline
+# Showdown.js for Rails 3.1+ Asset Pipeline
 
 Showdown.js is a Javascript port of a Markdown compiler, mostly compatible with the original `markdown.pl` script. 
 
